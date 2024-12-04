@@ -1,0 +1,6 @@
+Yassa viande:18:2000:viande,oignon,riz:1
+Thiebou dieune:21:2500:carotte,navet,riz:1
+Mafe:15:1500:arachide,tomate,riz:1
+Poulet DG:30:3000:banane plantain,carotte,oignon:1
+Kedjeou de poulet:20:2000:poivron,oignon,patate douce:1
+akoume:1:1234::1

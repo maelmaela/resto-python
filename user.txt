@@ -1,0 +1,4 @@
+KOUTOGLO:Mael:784512437:passer:gestionnaire:1
+THIAM:mouhamet:776765656:passer:vendeur:1
+TOTO:titi:786790000:passer:client:1
+TONTON:fufu:781534147:passer:gestionnaire:0
